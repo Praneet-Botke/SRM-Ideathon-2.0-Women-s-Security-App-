@@ -1,8 +1,7 @@
 # SRM-Ideathon-2.0-Women-s-Security-App-
-PPT on "Women's Security App"
+Write-Up Explaination on "Women's Security App"
 
-Hi Judges, its team UNITED presenting our idea on Womens Safety . Actually it's ashame that we need an app to ensure women's safety . Keeping the personal opinions apart let's jump to the big picture . In this competitive world where men and women have equal opportunities it's important to keep the opportunities safe and secured for women with respect to the environment. Nowadays due to recently happened 
-cases such as molest by drivers or colleagues, women security, has become the foremost priority of the world. Although it's not limited to urban but data can  e extracted from rural too.
+Hi Judges, its team UNITED presenting our idea on Womens Safety . Actually it's ashame that we need an app to ensure women's safety . Keeping the personal opinions apart let's jump to the big picture . In this competitive world where men and women have equal opportunities it's important to keep the opportunities safe and secured for women with respect to the environment. Nowadays due to recently happened cases such as molest by drivers or colleagues, women security, has become the foremost priority of the world. Although it's not limited to urban but data can  be extracted from rural too.
 ------‐‐------------------------------------
 Talking about the problem statement we aim for providing highly reliable security system for the safety of women which will be capable of tracking the current location of the victim or either inform the police about the distress.
 ------‐‐------------------------------------
